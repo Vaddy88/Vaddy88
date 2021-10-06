@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vaddy88
 - 👀 I’m interested in programming,AI and Machine learning, web development and graphic designing
 - 🌱 I’m currently learning C++,python,Java
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on AI and ML based projects
 - 📫 How to reach me , my gmail id is vardaan8803@gmail.com
 
 <!---
